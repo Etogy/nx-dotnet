@@ -74,7 +74,7 @@
     "kill-port": "^1.6.1",
     "lint-staged": "^12.3.4",
     "nx": "13.10.2",
-    "prettier": "2.5.1",
+    "prettier": "2.7.0",
     "run-p": "*",
     "semantic-release": "^19.0.2",
     "ts-jest": "27.1.3",
